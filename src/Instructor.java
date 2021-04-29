@@ -1,6 +1,6 @@
 
 public class Instructor extends User{
-	String[] givenLessonName;
+	private String[] givenLessonName;
 
 	public String[] getGivenLessonName() {
 		return givenLessonName;

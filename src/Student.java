@@ -1,6 +1,6 @@
 
 public class Student extends User{
-	int lessonCount;
+	private int lessonCount;
 
 	public int getLessonCount() {
 		return lessonCount;

@@ -1,10 +1,10 @@
 
 public class User {
-	int id;
-	String firstName;
-	String lastName;
-	String username;
-	String password;
+	private int id;
+	private String firstName;
+	private String lastName;
+	private String username;
+	private String password;
 	
 	public int getId() {
 		return id;
